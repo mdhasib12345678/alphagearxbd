@@ -1,0 +1,18 @@
+/*
+Theme Name: AlphaGearX BD
+Theme URI: https://github.com/mdhasib12345678/alphagearxbd
+Description: Minimal dark-violet WooCommerce storefront for AlphaGearX BD — a yoga & gym/fitness gear store in Bangladesh. Child theme of Astra. Inspired by Gymshark + EverydayYoga, with a neon animated background and Cash-on-Delivery checkout.
+Author: AlphaGearX BD
+Author URI: https://github.com/mdhasib12345678
+Template: astra
+Version: 1.0.0
+Requires at least: 6.0
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: alphagearx-bd
+Tags: e-commerce, woocommerce, custom-colors, custom-menu, full-width-template
+*/
+
+/* All visual styles live in assets/css/main.css (enqueued in functions.php).
+   This file only carries the required WordPress theme header. */
