@@ -1,0 +1,15 @@
+SLIDE 4 ("IRON MEETS ASANA" product showcase) — CREATE THE DESKTOP VERSION
+=========================================================================
+Give ChatGPT: the SLIDE 4 source image  (04-yoga/source-iron-meets-asana-16x9.jpg — the product flat-lay: yoga mat, dumbbell, foam roller, resistance bands, gym bag, with the "AlphaGearX BD — Iron Meets Asana" banner)
+Goal: same image, just made a little WIDER into a desktop banner.
+
+PROMPT (paste into ChatGPT image with the image attached):
+-------------------------------------------------------------
+EDIT / REFRAME TASK — do not redesign.
+I am giving you one finished product banner image. Keep it 100% identical — exactly the same products (yoga mat, dumbbell, foam roller, resistance bands, gym bag), same arrangement and positions, the same wall banner, the same "AlphaGearX BD — Iron Meets Asana" text and logo, the same violet/purple colour scheme, lighting and art style. Do NOT add, remove, move, restyle, recolour or duplicate anything, and do NOT change any text.
+
+Your ONLY job is to change the CANVAS ASPECT RATIO to an ULTRA-WIDE 16:5 banner by naturally extending (outpainting) the existing scene to the LEFT and the RIGHT — continue the same table surface, wall and lighting on both sides — so none of the products or the banner text get cropped. Keep all products and the banner fully visible and centered. Seamless, photoreal extension, no stretching, no distortion.
+
+Output: an ultra-wide 16:5 desktop hero banner (final target size 2560 x 800 px).
+-------------------------------------------------------------
+NOTE: ChatGPT cannot output exactly 2560x800. Generate the widest landscape it allows, then send it back to me — I will crop/resize to exactly 2560 x 800 px.

@@ -1,0 +1,15 @@
+SLIDE 3 (GYM) — CREATE THE MOBILE VERSION
+=========================================
+Give ChatGPT: the SLIDE 3 DESKTOP image  (03-gym/desktop/hero3-desktop.webp — the wide bright-gym banner with women training and the AlphaGearX BD logo)
+Goal: same image, just reshaped to a SQUARE for mobile.
+
+PROMPT (paste into ChatGPT image with the image attached):
+-------------------------------------------------------------
+EDIT / REFRAME TASK — do not redesign.
+I am giving you one finished hero banner image. Keep it 100% identical — exactly the same people, same training positions, poses and outfits, the same bright modern gym background and equipment, the same AlphaGearX BD logo and text, the same colours, lighting and art style. Do NOT add, remove, move, restyle, recolour or duplicate anything, and do NOT change any text.
+
+Your ONLY job is to change the CANVAS ASPECT RATIO to a 1:1 SQUARE by naturally extending (outpainting) the existing scene UPWARD and DOWNWARD — add more of the same gym ceiling above and more of the same gym floor below — so nothing on the sides gets cropped. Keep the athletes and the centered logo fully visible and centered. Seamless, photoreal extension, no stretching, no distortion, no new people.
+
+Output: a 1:1 SQUARE mobile hero image (final target size 1080 x 1080 px).
+-------------------------------------------------------------
+NOTE: ChatGPT will output a square (1024x1024). Send it back to me — I will resize to exactly 1080 x 1080 px.
