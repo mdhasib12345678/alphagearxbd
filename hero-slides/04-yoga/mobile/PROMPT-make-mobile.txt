@@ -1,0 +1,15 @@
+SLIDE 4 ("IRON MEETS ASANA" product showcase) — CREATE THE MOBILE VERSION
+========================================================================
+Give ChatGPT: the SLIDE 4 source image  (04-yoga/source-iron-meets-asana-16x9.jpg — the product flat-lay with the "AlphaGearX BD — Iron Meets Asana" banner)
+Goal: same image, just reshaped to a SQUARE for mobile.
+
+PROMPT (paste into ChatGPT image with the image attached):
+-------------------------------------------------------------
+EDIT / REFRAME TASK — do not redesign.
+I am giving you one finished product banner image. Keep it 100% identical — exactly the same products (yoga mat, dumbbell, foam roller, resistance bands, gym bag), same arrangement and positions, the same wall banner, the same "AlphaGearX BD — Iron Meets Asana" text and logo, the same violet/purple colour scheme, lighting and art style. Do NOT add, remove, move, restyle, recolour or duplicate anything, and do NOT change any text.
+
+Your ONLY job is to change the CANVAS ASPECT RATIO to a 1:1 SQUARE by naturally extending (outpainting) the existing scene UPWARD and DOWNWARD — add a little more of the same wall/banner above and more of the same table surface below — so none of the products on the sides get cropped. Keep all products and the banner fully visible and centered. Seamless, photoreal extension, no stretching, no distortion.
+
+Output: a 1:1 SQUARE mobile hero image (final target size 1080 x 1080 px).
+-------------------------------------------------------------
+NOTE: ChatGPT will output a square (1024x1024). Send it back to me — I will resize to exactly 1080 x 1080 px.

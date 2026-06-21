@@ -1,0 +1,15 @@
+SLIDE 2 (YOGA) — CREATE THE DESKTOP VERSION
+===========================================
+Give ChatGPT: the SLIDE 2 MOBILE image  (02-yoga/mobile/hero2-mobile.webp — the square yoga-studio group with the AlphaGearX BD logo)
+Goal: same image, just stretched WIDER into a desktop banner (without distorting).
+
+PROMPT (paste into ChatGPT image with the image attached):
+-------------------------------------------------------------
+EDIT / REFRAME TASK — do not redesign.
+I am giving you one finished hero image. Keep it 100% identical — exactly the same people, same yoga poses and outfits, the same bright studio background, plants, mats and props, the same AlphaGearX BD logo and text, the same colours, lighting and art style. Do NOT add, remove, move, restyle, recolour or duplicate anything, and do NOT change any text.
+
+Your ONLY job is to change the CANVAS ASPECT RATIO to an ULTRA-WIDE 16:5 banner by naturally extending (outpainting) the existing scene to the LEFT and the RIGHT — continue the same studio wall, windows, floor and plants on both sides — so nothing on the top or bottom gets cropped. Keep all the people and the logo fully visible; keep the main standing yoga figure and the logo around the centre. Seamless, photoreal extension, no stretching, no distortion, no duplicated people.
+
+Output: an ultra-wide 16:5 desktop hero banner (final target size 2560 x 800 px).
+-------------------------------------------------------------
+NOTE: ChatGPT cannot output exactly 2560x800 (it gives ~1536x1024 / wide). Generate the widest landscape it allows, then send it back to me — I will crop/resize to exactly 2560 x 800 px.
